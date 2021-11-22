@@ -10,6 +10,8 @@ Once you download and extract the zip file or clone the project to your Git appl
 
 When you first open this project, Unity will generate all necessary files. it could take a while, so relax, play your favorite song, and grab a coffee or tea! Once it's opened in Unity and it looks exactly like in the screenshot, you're all set!
 
+Alternatively, you could create your own basic URP project in Unity Hub and then install the Unity package.
+
 This is how the project should look like:
 <img src="https://github.com/FFaUniHan/Unity_VRoid_Export_URP/blob/main/Screenshot%201.jpg" width=100% height=100%>
 
