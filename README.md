@@ -1,4 +1,4 @@
-# Unity VRoid Import to URP Template
+# Unity VRoid Import to URP Template Tutorial
 This project is a ready-to-use URP template with UniVRM plugin and URP MToon Shader already installed. This project uses Unity version 2021.2.3f, earlier versions of Unity might not work and later versions might break some of the scripts. I made this publicly available because some people have reported in my video comment section that they are unable to get the UniVRM plugin to install properly.
 
 Huge credit to these guys who made this possible!
