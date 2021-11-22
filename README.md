@@ -13,12 +13,12 @@ When you first open this project, Unity will generate all necessary files. it co
 Alternatively, you could create your own basic URP project in Unity Hub and then install the Unity package.
 
 This is how the project should look like:
-<img src="https://github.com/FFaUniHan/Unity_VRoid_Export_URP/blob/main/Screenshot%201.jpg" width=100% height=100%>
+<img src="https://github.com/FFaUniHan/Unity_VRoid_Export_URP_Template/blob/main/Screenshot%201.jpg" width=100% height=100%>
 
 I've set up a walking animation and several scripts from my lateet tutorials:
-<img src="https://github.com/FFaUniHan/Unity_VRoid_Export_URP/blob/main/Screenshot%202.jpg" width=100% height=100%>
+<img src="https://github.com/FFaUniHan/Unity_VRoid_Export_URP_Template/blob/main/Screenshot%202.jpg" width=100% height=100%>
 
 # Tutorial Video
 If you want to do this manually and know how do we get here, here is my original tutorial video! I make this kind of tutorial every month, so if you like it, be sure to subscribe!
 
-[![How to Export VRoid Studio Models to Unity in 7 Minutes or Less (3D/URP/HDRP)](https://github.com/FFaUniHan/Unity_VRoid_Export_URP/blob/main/Screenshot%203.jpg)](https://www.youtube.com/watch?v=IrIn9wRYqUI "How to Export VRoid Studio Models to Unity in 7 Minutes or Less (3D/URP/HDRP)")
+[![How to Export VRoid Studio Models to Unity in 7 Minutes or Less (3D/URP/HDRP)](https://github.com/FFaUniHan/Unity_VRoid_Export_URP_Template/blob/main/Screenshot%203.jpg)](https://www.youtube.com/watch?v=IrIn9wRYqUI "How to Export VRoid Studio Models to Unity in 7 Minutes or Less (3D/URP/HDRP)")
